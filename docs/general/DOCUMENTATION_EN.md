@@ -1,16 +1,16 @@
-# Nurse Simulator — Comprehensive Project Documentation
+# Ignacio Nurse Simulator — Comprehensive Project Documentation
 
 > **M0616 - Intermodular Project | DAW 2 (Academic Year 2026/2027)**  
 > **Institution:** STUCOM Pelai (Barcelona)  
 > **Team:** Group pr03  
 > **Authors:** Ignacio Breñas Muñoz, Christopher Roger Tito Farez, Zehao Yin, Gorka Ramirez  
-> **Repository:** [https://github.com/Ignaciobrenas/Nurse-Simulator](https://github.com/Ignaciobrenas/Nurse-Simulator)
+> **Repository:** [https://github.com/Ignaciobrenas/Ignacio-Nurse-Simulator](https://github.com/Ignaciobrenas/Ignacio-Nurse-Simulator)
 
 ---
 
 ## 1. Executive Summary & Team Roles
 
-**Nurse Simulator** is a RESTful API built with **Symfony 7.4** and **PHP 8.2+** designed to simulate the management of hospital nursing staff.
+**Ignacio Nurse Simulator** is a RESTful API built with **Symfony 7.4** and **PHP 8.2+** designed to simulate the management of hospital nursing staff.
 
 The project is structured as an academic team endeavor conceived to evolve incrementally across progressive development phases. In this initial phase, the API exposes essential web services for querying, searching, and authenticating nurses, utilizing a file-based storage architecture decoupled from traditional relational database systems.
 
@@ -391,7 +391,7 @@ The collection includes organized subfolders mirroring test executions:
 ## 8. Project Structure
 
 ```
-Nurse-Simulator/
+Ignacio-Nurse-Simulator/
 ├── bin/
 │   └── console                     # Symfony CLI tool
 ├── config/                         # Configuration files (routes, packages, services)
@@ -436,8 +436,8 @@ Nurse-Simulator/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ignaciobrenas/Nurse-Simulator.git
-   cd Nurse-Simulator
+   git clone https://github.com/Ignaciobrenas/Ignacio-Nurse-Simulator.git
+   cd Ignacio-Nurse-Simulator
    ```
 
 2. **Install dependencies:**

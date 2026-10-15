@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Nurse Simulator
+# 🏥 Ignacio Nurse Simulator
 
 [![Symfony](https://img.shields.io/badge/Symfony-7.4-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
 [![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -21,7 +21,7 @@
 
 ## 📖 1. Sobre el Proyecto
 
-**Nurse Simulator** es una API REST desarrollada con **Symfony 7.4** y **PHP 8.2+** orientada a simular la administración, consulta e identificación de los enfermeros de un complejo hospitalario.
+**Ignacio Nurse Simulator** es una API REST desarrollada con **Symfony 7.4** y **PHP 8.2+** orientada a simular la administración, consulta e identificación de los enfermeros de un complejo hospitalario.
 
 Este proyecto forma parte de la fase inicial (**pr03 — Introducción Backend**) del **Proyecto Intermodular (M0616)** cursado en **2º DAW** en el centro **STUCOM Pelai (Barcelona)** durante el curso académico **2026/2027**.
 
@@ -335,8 +335,8 @@ gitGraph
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/Ignaciobrenas/Nurse-Simulator.git
-cd Nurse-Simulator
+git clone https://github.com/Ignaciobrenas/Ignacio-Nurse-Simulator.git
+cd Ignacio-Nurse-Simulator
 
 # 2. Instalar dependencias de Symfony
 composer install
@@ -370,7 +370,7 @@ curl -i -X POST http://localhost:8000/nurse/login \
 ## 📂 8. Estructura del Proyecto
 
 ```
-Nurse-Simulator/
+Ignacio-Nurse-Simulator/
 ├── bin/
 │   └── console                    # CLI de Symfony
 ├── config/                        # Configuración de rutas y servicios

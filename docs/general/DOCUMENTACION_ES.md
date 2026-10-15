@@ -1,16 +1,16 @@
-# Nurse Simulator — Documentación General del Proyecto
+# Ignacio Nurse Simulator — Documentación General del Proyecto
 
 > **M0616 - Proyecto Intermodular | DAW 2 (Curso 2026/2027)**  
 > **Centro:** STUCOM Pelai (Barcelona)  
 > **Grupo:** pr03  
 > **Autores:** Ignacio Breñas Muñoz, Christopher Roger Tito Farez, Zehao Yin, Gorka Ramirez  
-> **Repositorio:** [https://github.com/Ignaciobrenas/Nurse-Simulator](https://github.com/Ignaciobrenas/Nurse-Simulator)
+> **Repositorio:** [https://github.com/Ignaciobrenas/Ignacio-Nurse-Simulator](https://github.com/Ignaciobrenas/Ignacio-Nurse-Simulator)
 
 ---
 
 ## 1. Resumen Ejecutivo y Equipo
 
-**Nurse Simulator** es una API REST desarrollada con **Symfony 7.4** y **PHP 8.2+** cuyo objetivo es simular la gestión del personal de enfermería de un centro hospitalario. 
+**Ignacio Nurse Simulator** es una API REST desarrollada con **Symfony 7.4** y **PHP 8.2+** cuyo objetivo es simular la gestión del personal de enfermería de un centro hospitalario. 
 
 El proyecto está planteado como un trabajo académico en equipo, concebido para evolucionar incrementalmente a lo largo de diversas fases de desarrollo. En esta primera fase, la API expone servicios web esenciales para la consulta, filtrado e inicio de sesión de enfermeros/as, operando con un sistema de almacenamiento desacoplado de bases de datos relacionales tradicionales.
 
@@ -391,7 +391,7 @@ Dicha colección contiene carpetas organizadas con capturas de prueba para cada 
 ## 8. Estructura del Repositorio
 
 ```
-Nurse-Simulator/
+Ignacio-Nurse-Simulator/
 ├── bin/
 │   └── console                     # Consola CLI de Symfony
 ├── config/                         # Configuraciones del framework y paquetes
@@ -436,8 +436,8 @@ Nurse-Simulator/
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/Ignaciobrenas/Nurse-Simulator.git
-   cd Nurse-Simulator
+   git clone https://github.com/Ignaciobrenas/Ignacio-Nurse-Simulator.git
+   cd Ignacio-Nurse-Simulator
    ```
 
 2. **Instalar dependencias de PHP:**
